@@ -1,0 +1,30 @@
+body
+{
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:white;
+}
+h1
+{
+    font-size: 48px;
+    color:greenyellow;
+     
+}
+/*unvisited link*/
+a:link
+{
+
+    color: yellow;
+}
+/*visited link*/
+a:visited
+{
+    
+    color:green;
+}
+/*focused link , hover over - najechac na*/
+a:hover
+{
+    color:red;
+}
