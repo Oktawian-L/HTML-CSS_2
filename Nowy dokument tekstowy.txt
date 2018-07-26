@@ -1,0 +1,35 @@
+notatki
+css w tagach przydaje sie do pisania maili
+selector wybiera ellemty z jednego pliku do drugiego. Stosuje wlasciwosc stylu walanie po tym
+id musi bc unikalne,
+a klase bierzemy caly zestaw ellemnwntow
+margin - odtysep od innych ellemnenow
+margin leci zgonie z ruchem wskzowek zegara
+od gody do dolu
+    margin : 2px 3px 4px;
+    outline vs border
+    outline zawsze otacza do oklla
+    nie wplywa na rozmiar obiektu
+    zawsze jesst prostokatna
+HSL
+odchylenie od red w 12
+KONTARY
+    jasno -ceoino
+
+h1 ma domyslny margin -> bo to jest znacznik
+
+
+vieport width, viepoert height
+
+em/px vw/width
+
+najgrubszy fonr 
+font-weight 900
+
+flexbox
+nbsp przechodzenie na druga linie
+
+keyframes zdefiniowanie animacji
+
+
+

@@ -9,18 +9,15 @@ h1
 {
     font-size: 48px;
     color:greenyellow;
-     
 }
 /*unvisited link*/
 a:link
 {
-
     color: yellow;
 }
 /*visited link*/
 a:visited
 {
-    
     color:green;
 }
 /*focused link , hover over - najechac na*/
