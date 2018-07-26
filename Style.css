@@ -1,11 +1,125 @@
 body
 {
-    background-color: grey;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    color:white;
+    background-color:#404040;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 20px; 
 }
 #container
 {
+    width : 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo
+{
+    color:white;
+    margin-top:20px;
+    font-size: 44px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    
+}
+#menu
+{
+    background-color: #944300;
+    margin-top :20px;
+    color:white;
+    padding: 10px;
+}
+#topbar
+{
+    background-color:rgb(245, 245, 81);
+    color :black;
+    padding:10px;
+    margin-top :20px;
+    margin-bottom :25px;
 
+}
+#topbarleft
+{
+    float:left;
+    border-right: 2px solid  #944300;
+    font-size: 5px; 
+    padding :20px;
+    width :138px;
+    text-align: center;
+}
+#topbarright
+{
+    float:left;
+    padding: 20px;
+    width:760px;
+    font-size:16px;
+    text-align: justify;
+}
+#sidebar
+{
+    float:left;
+    width: 150px;
+    min-height: 620px;
+    padding: 20px;
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 18px;
+    border-right: 2px dotted #666666;
+}
+#content
+{
+    float:left;
+    padding: 40px;
+    width: 720px;
+    background-color: beige;
+    text-align: justify;
+}
+#footer
+{
+    clear: both;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+.option
+{
+    color:yellow;
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size:18px;
+    padding :10px;
+    border-right: 2px solid yellow;
+    opacity: 0.8;
+}
+.option:hover
+{
+    cursor: pointer;
+    background-color:#fdad6c;;
+}
+.optionL
+{
+    font-size: 13px;
+    height: 25px;
+    padding: 10px;
+    border-bottom: 2px dotted #444444;
+}
+.optionL:hover
+{
+    font-size: 15px;
+    background-color:greenyellow;
+    cursor: pointer;
+    
+}
+.bigtitle
+{
+    font-size: 18px;
+    text-align: left;
+    font-weight: 900;
+    border-bottom: 2px dotted black;
+}
+.dottedline
+{
+    height: 5px;
+    margin-top: 15px;
+    margin-bottom:20px;
+    border-bottom: 2px dotted black;
 }
