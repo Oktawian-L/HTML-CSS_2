@@ -5,23 +5,7 @@ body
     font-size: 20px;
     color:white;
 }
-h1
+#container
 {
-    font-size: 48px;
-    color:greenyellow;
-}
-/*unvisited link*/
-a:link
-{
-    color: yellow;
-}
-/*visited link*/
-a:visited
-{
-    color:green;
-}
-/*focused link , hover over - najechac na*/
-a:hover
-{
-    color:red;
+
 }
