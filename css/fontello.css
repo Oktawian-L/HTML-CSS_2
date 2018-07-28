@@ -62,5 +62,5 @@
 .icon-laptop:before { content: '\e804'; font-size: 70px; margin-top:30px;  } /* '' */
 .icon-suitcase:before { content: '\e805';font-size: 70px; margin-top:30px; } /* '' */
 .icon-mail:before { content: '\e806'; font-size: 70px; margin-top:30px;} /* '' */
-.icon-chat:before { content: '\e807';font-size: 70px; margin-top:30px; } /* '' */
+.icon-chat:before { content: '\e807'; } /* '' */
 .icon-user:before { content: '\f061'; font-size: 70px; margin-top:30px; } /* '' */
