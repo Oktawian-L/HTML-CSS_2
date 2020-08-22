@@ -1,0 +1,22 @@
+{
+  "name": "html-css_2",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "timer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oktawian-L/HTML-CSS_2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "OL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oktawian-L/HTML-CSS_2/issues"
+  },
+  "homepage": "https://github.com/Oktawian-L/HTML-CSS_2#readme"
+}
